@@ -1,0 +1,8 @@
+# node_modules ignored by default
+
+**/staticBundle.js
+**/main.js
+Libraries/vendor/**/*
+Libraries/Renderer/*
+flow/
+danger/
